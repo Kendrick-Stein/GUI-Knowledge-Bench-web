@@ -18,7 +18,7 @@
 
       <div class="author-list">
        <span class="author">
-          <el-link href="https://scholar.google.com/citations?user=DSN0fGIAAAAJ&hl=en">Chenrui Shi transparent</el-link>
+          <el-link href="https://scholar.google.com/citations?user=DSN0fGIAAAAJ&hl=en">Chenrui Shi</el-link>
           <span class="ind">1,2</span>,
         </span>
         <span class="author">
