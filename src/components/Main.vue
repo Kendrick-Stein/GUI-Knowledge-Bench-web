@@ -93,7 +93,7 @@
         </a>
       </span>
       <span class="link-block">
-        <a href="https://github.com/Computer-use-agents/GUIKnowledgeBench" class="external-link button is-normal is-rounded is-dark">
+        <a href="https://github.com/Kendrick-Stein/GUI_Knowledge_Bench_Official_Repo?tab=readme-ov-file" class="external-link button is-normal is-rounded is-dark">
           <span class="icon">
             <i class="fab fa-github"></i>
           </span>
@@ -103,7 +103,7 @@
 
       <!-- Data Link. need changing -->
       <span class="link-block">
-        <a target="_blank" href=""
+        <a target="_blank" href="https://huggingface.co/datasets/KendrickShi/GUI-Knowledge-Bench"
           class="external-link button is-normal is-rounded is-dark">
           <span class="icon">
             <i class="fa fa-database"></i>
